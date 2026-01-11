@@ -24,4 +24,6 @@ If there are no student in the favourites list then the system displays no stude
 
 From this we can route back to the all students list.
 
-https://github.com/Poorani1310/favouritestudent
+repo link : https://github.com/Poorani1310/favouritestudent
+
+project link: https://github.com/Poorani1310/favouritestudent
